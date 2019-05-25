@@ -1,6 +1,6 @@
 {
   "name": "yinyang-gen",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "author": "Felipe Aron",
   "description": "React and React Native component and page generator",
   "bin": {
@@ -49,5 +49,9 @@
     "generator",
     "component",
     "page"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aronfelipe/yinyang-gen"
+  }
 }
